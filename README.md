@@ -32,7 +32,7 @@ Powerful Starterkit combining all latest advanced Angular features. Strict types
 -   MAC: `npm run certificate:generate:mac && nx run <project>:serve [options]`
 -   Windows: remove ssl from `serve` inside _'project.json'_ and `nx run <project>:serve [options]`
 
-## Perfect score application 🤩
+## Perfect score  🤩
 
 ![Google Lighthouse result](https://angular.rickvandermeij.nl/assets/google-audit.png)
 
