@@ -99,7 +99,7 @@ As of version 2.1.0 the mockServer is running through Docker and runs with HTTPS
 Do a POST call to `https://localhost:4000/notification` to create a mocked push notification.
 Best can be tested after `nx run <project>:build [options]` and then serve the correct folder as `http-server`. The application will then be available at `https://localhost:8081`
 
-## Git hooks 🎯
+## Git hooks 🎯 //
 
 Git hooks are active, which means you only can commit when there are no linting errors, and all unit-tests succeeds. Other commmands can be implemented with `husky`.
 
